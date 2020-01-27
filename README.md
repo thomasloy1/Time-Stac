@@ -1,6 +1,6 @@
 # MSSA Repository
 
-## Timer Application for Who Recieve Exceptional Children(EC) Services
+## Timer Application for Children Who Recieve Exceptional Children(EC) Services
 
 ### Need/Purpose
 
