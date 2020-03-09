@@ -1,0 +1,29 @@
+html {
+  background-color: #cff;
+  padding: 100px;
+}
+
+form {
+  background-color: #fff;
+  border-radius: 10px;
+  display: block;
+  padding: 20px;
+  width: 100%;
+}
+
+form label {
+  display: block;
+  padding: 5px 0;
+  width: 100%;
+}
+
+form label span {
+  display: inline-block;
+  width: 40%;
+}
+
+form label input {
+  display: inline-block;
+  float: right;
+  width: 50%;
+}
