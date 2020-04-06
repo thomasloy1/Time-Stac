@@ -298,7 +298,6 @@ C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\bi
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.csprojAssemblyReference.cache
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.RazorAssemblyInfo.cache
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.RazorAssemblyInfo.cs
@@ -312,7 +311,6 @@ C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\ob
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Details.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Edit.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -327,3 +325,4 @@ C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\ob
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.dll
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.pdb
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
+C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
