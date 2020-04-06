@@ -8524,11 +8524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tommy\\source\\repos\\timestac_alpha\\timestac_alpha\\timestac_alpha.csproj",
+      "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\timestac_alpha\\timestac_alpha\\timestac_alpha.csproj",
       "projectName": "timestac_alpha",
-      "projectPath": "C:\\Users\\tommy\\source\\repos\\timestac_alpha\\timestac_alpha\\timestac_alpha.csproj",
+      "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\timestac_alpha\\timestac_alpha\\timestac_alpha.csproj",
       "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tommy\\source\\repos\\timestac_alpha\\timestac_alpha\\obj\\",
+      "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\timestac_alpha\\timestac_alpha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
