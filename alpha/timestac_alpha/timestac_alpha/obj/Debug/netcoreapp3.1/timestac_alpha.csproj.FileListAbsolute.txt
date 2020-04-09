@@ -326,3 +326,4 @@ C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\ob
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.pdb
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\timestac_alpha\timestac_alpha\obj\Debug\netcoreapp3.1\timestac_alpha.csprojAssemblyReference.cache
