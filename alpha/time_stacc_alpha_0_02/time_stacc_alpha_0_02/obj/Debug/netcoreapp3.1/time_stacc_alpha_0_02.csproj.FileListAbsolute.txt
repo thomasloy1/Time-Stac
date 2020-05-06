@@ -80,5 +80,4 @@ C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Debu
 C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Debug\netcoreapp3.1\time_stacc_alpha_0_02.dll
 C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Debug\netcoreapp3.1\time_stacc_alpha_0_02.pdb
 C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
-C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Debug\netcoreapp3.1\time_stacc_alpha_0_02.csprojAssemblyReference.cache
-C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Debug\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
+C:\Users\tommy\source\repos\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Debug\netcoreapp3.1\Razor\Pages\Timer.cshtml.g.cs
