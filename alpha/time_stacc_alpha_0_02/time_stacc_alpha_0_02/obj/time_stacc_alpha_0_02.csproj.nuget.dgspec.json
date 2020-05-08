@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tommy\\source\\repos\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj": {}
+    "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tommy\\source\\repos\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj": {
+    "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tommy\\source\\repos\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj",
+        "projectUniqueName": "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj",
         "projectName": "time_stacc_alpha_0_02",
-        "projectPath": "C:\\Users\\tommy\\source\\repos\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj",
+        "projectPath": "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02.csproj",
         "packagesPath": "C:\\Users\\tommy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tommy\\source\\repos\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\obj\\",
+        "outputPath": "C:\\Users\\tommy\\Documents\\GitHub\\Time-Stac\\alpha\\time_stacc_alpha_0_02\\time_stacc_alpha_0_02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,6 +62,10 @@
               "version": "[3.1.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.2, )"
             }

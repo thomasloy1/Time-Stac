@@ -8,9 +8,21 @@
 
 <h1>Timer Page</h1>
 
-<p>
-    <a asp-page="Create Timer">Create Timer</a>
-</p>
+<button class="open-button" onclick="openForm()">Create New Timer</button>
+
+<div class="form-popup" id="myForm">
+    <form class="form-container">
+        <h1>Set Time</h1>
+
+        <label for="time"><b>Set Time (Hours Min Sec)</b></label>
+        <input type="text" placeholder="000 00 00 .." name="time" required>
+
+        <button type="submit" class="btn">Create</button>
+        <button type="button" class="btn cancel" onclick="closeForm()">Cancel</button>
+    </form>
+</div>
+
+<script src="~/js/Timer.js"></script>
 
 <!-- Display the countdown timer in an element -->
 <p id="countdown"></p>
