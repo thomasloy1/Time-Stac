@@ -139,7 +139,6 @@ C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Contact.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Donate.cshtml.g.cs
-C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Email_Send.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
@@ -157,3 +156,4 @@ C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\staticwebassets\time_stacc_alpha_0_02.StaticWebAssets.xml
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\time_stacc_alpha_0_02.dll
 C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\time_stacc_alpha_0_02.pdb
+C:\Users\tommy\Documents\GitHub\Time-Stac\alpha\time_stacc_alpha_0_02\time_stacc_alpha_0_02\obj\Release\netcoreapp3.1\Razor\Pages\Success.cshtml.g.cs

@@ -10,43 +10,44 @@
     <form onsubmit="return submitForm()">
 
         <label for="fname">First Name</label>
-        <input type="text" id="fname" name="firstname" placeholder="Your name.."><br />
+        <input type="text" id="fname" name="firstname" placeholder="Your name.." required><br />
 
         <label for="lname">Last Name</label>
-        <input type="text" id="lname" name="lastname" placeholder="Your last name.."><br />
+        <input type="text" id="lname" name="lastname" placeholder="Your last name.." required><br />
 
         <label for="email">Email</label>
-        <input type="text" id="email" name="emailaddress" placeholder="Valid Email.."><br />
+        <input type="text" id="email" name="emailaddress" placeholder="Valid Email.." required><br />
 
         <label for="country">Country</label>
         <select id="country" name="country">
             <option value="australia">Australia</option>
             <option value="canada">Canada</option>
-            <option value="usa">USA</option>
+            <option value="usa">United Kingdom</option>
+            <option value="usa">United States</option>
             <option value="other">Other</option>
         </select><br />
 
         <label for="subject">Subject</label>
-        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea><br />
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" required></textarea><br />
 
         <input type="submit" value="Submit">
 
-        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/superagent/2.2.0/superagent.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/superagent/2.2.0/superagent.min.js"></script>
         <script>
             function submitForm() {
                 superagent
                     .post('https://prod-73.eastus.logic.azure.com:443/workflows/d1cea2052e0d4e7bba34c8faac0530b3/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=7fukMcVNZBACanjVRsskOFA2c04qHb30FNMLShezznc')
                     .send({
-                        fname: document.getElementById('form-fname').value,
-                        lname: document.getElementById('form-lname').value,
-                        email: document.getElementById('form-email').value,
-                        subject: document.getElementById('form-subject').value
+                        fname: document.getElementById('fname').value,
+                        lname: document.getElementById('lname').value,
+                        email: document.getElementById('email').value,
+                        subject: document.getElementById('subject').value
                     })
                     .end(function (err, res) {
                         if (err || !res.ok) {
                             alert('Whoops. Something went wrong.');
                         } else {
-                            window.location.href = "success.html";
+                            window.location.href = "./Success"
                         }
                     });
                 return false;
