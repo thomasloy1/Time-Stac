@@ -2,7 +2,7 @@
 
 ## MVP - Minimum Viable Product
 
-### At the bare minimum, this app will need to have the ability to display timers. They need to run in a "stack", that is to say, they need to run one right after the other in order. There needs to be an audible tone that signals the transition between timers. Multiple users need to be able to access this app at the same and each be able to run it independently. 
+### At the bare minimum, this app will need to have the ability to display timers. They need to run in a "stack", that is to say, they need to run one right after the other in order. There needs to be an audible tone that signals the transition between timers. Multiple users need to be able to access this app at the same time and each be able to run it independently. 
 
 ### Users need to be able to customize the timer settings such as,
 
